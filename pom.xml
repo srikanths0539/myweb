@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://34.235.132.196:8081/#admin/repository/repositories:versionpolicy/</url>
+		    <url>http://34.235.132.196:8081/#browse/browse:versionpolicy</url>
 		</repository>
   	</distributionManagement>
 	
